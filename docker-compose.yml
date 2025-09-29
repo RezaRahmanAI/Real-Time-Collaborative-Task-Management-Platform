@@ -1,0 +1,8 @@
+version: "3.9"
+
+# Services will be added in later steps:
+# - sqlserver: SQL Server 2022 container
+# - api: ASP.NET Core API
+# - web: Angular app (nginx or node serve)
+
+services: {}
