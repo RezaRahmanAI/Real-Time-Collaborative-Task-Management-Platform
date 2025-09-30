@@ -1,0 +1,55 @@
+# ---- OS / Editors ----
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+
+# ---- Node / Angular ----
+node_modules/
+npm-debug.log*
+yarn.lock
+pnpm-lock.yaml
+package-lock.json
+dist/
+.tmp/
+.angular/
+.angular/cache/
+coverage/
+*.log
+
+# ---- Environment / Secrets ----
+.env
+*.env
+.env.*.local
+secrets.json
+
+# ---- .NET / Build ----
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.cache
+*.ide/
+*.nupkg
+project.lock.json
+artifacts/
+TestResults/
+*.coverage
+*.coveragexml
+*.trx
+*.opendb
+*.db-wal
+*.db-shm
+
+# ---- SQL / Data ----
+*.mdf
+*.ldf
+*.ndf
+*.bak
+
+# ---- Misc ----
+*.swp
+*.swm
+*.tmp
