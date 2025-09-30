@@ -1,0 +1,559 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C495C128-EE43-46CF-8A9A-813D1C585344}|Infrastructure\\Infrastructure.csproj|d:\\personal\\real-time-collaborative-task-management-platform\\backend\\src\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C495C128-EE43-46CF-8A9A-813D1C585344}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0CD029-C3D6-41F1-8FA2-6A274E197569}|API\\API.csproj|d:\\personal\\real-time-collaborative-task-management-platform\\backend\\src\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DC0CD029-C3D6-41F1-8FA2-6A274E197569}|API\\API.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE549FC9-18E4-459F-972E-8FC70312E08D}|Application\\Application.csproj|d:\\personal\\real-time-collaborative-task-management-platform\\backend\\src\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CE549FC9-18E4-459F-972E-8FC70312E08D}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F399BFC-0A19-42C4-8673-1FE73D9F5828}|Domain\\Domain.csproj|d:\\personal\\real-time-collaborative-task-management-platform\\backend\\src\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4F399BFC-0A19-42C4-8673-1FE73D9F5828}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0CD029-C3D6-41F1-8FA2-6A274E197569}|API\\API.csproj|d:\\personal\\real-time-collaborative-task-management-platform\\backend\\src\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC0CD029-C3D6-41F1-8FA2-6A274E197569}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F399BFC-0A19-42C4-8673-1FE73D9F5828}|Domain\\Domain.csproj|d:\\personal\\real-time-collaborative-task-management-platform\\backend\\src\\domain\\entities\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F399BFC-0A19-42C4-8673-1FE73D9F5828}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0CD029-C3D6-41F1-8FA2-6A274E197569}|API\\API.csproj|d:\\personal\\real-time-collaborative-task-management-platform\\backend\\src\\api\\controllers\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC0CD029-C3D6-41F1-8FA2-6A274E197569}|API\\API.csproj|solutionrelative:api\\controllers\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0CD029-C3D6-41F1-8FA2-6A274E197569}|API\\API.csproj|d:\\personal\\real-time-collaborative-task-management-platform\\backend\\src\\api\\realtime\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC0CD029-C3D6-41F1-8FA2-6A274E197569}|API\\API.csproj|solutionrelative:api\\realtime\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C495C128-EE43-46CF-8A9A-813D1C585344}|Infrastructure\\Infrastructure.csproj|d:\\personal\\real-time-collaborative-task-management-platform\\backend\\src\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C495C128-EE43-46CF-8A9A-813D1C585344}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0CD029-C3D6-41F1-8FA2-6A274E197569}|API\\API.csproj|d:\\personal\\real-time-collaborative-task-management-platform\\backend\\src\\api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DC0CD029-C3D6-41F1-8FA2-6A274E197569}|API\\API.csproj|solutionrelative:api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0CD029-C3D6-41F1-8FA2-6A274E197569}|API\\API.csproj|d:\\personal\\real-time-collaborative-task-management-platform\\backend\\src\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DC0CD029-C3D6-41F1-8FA2-6A274E197569}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C495C128-EE43-46CF-8A9A-813D1C585344}|Infrastructure\\Infrastructure.csproj|d:\\personal\\real-time-collaborative-task-management-platform\\backend\\src\\infrastructure\\security\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C495C128-EE43-46CF-8A9A-813D1C585344}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\security\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C495C128-EE43-46CF-8A9A-813D1C585344}|Infrastructure\\Infrastructure.csproj|d:\\personal\\real-time-collaborative-task-management-platform\\backend\\src\\infrastructure\\security\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C495C128-EE43-46CF-8A9A-813D1C585344}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\security\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C495C128-EE43-46CF-8A9A-813D1C585344}|Infrastructure\\Infrastructure.csproj|d:\\personal\\real-time-collaborative-task-management-platform\\backend\\src\\infrastructure\\persistence\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C495C128-EE43-46CF-8A9A-813D1C585344}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C495C128-EE43-46CF-8A9A-813D1C585344}|Infrastructure\\Infrastructure.csproj|d:\\personal\\real-time-collaborative-task-management-platform\\backend\\src\\infrastructure\\persistence\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C495C128-EE43-46CF-8A9A-813D1C585344}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE549FC9-18E4-459F-972E-8FC70312E08D}|Application\\Application.csproj|d:\\personal\\real-time-collaborative-task-management-platform\\backend\\src\\application\\abstractions\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE549FC9-18E4-459F-972E-8FC70312E08D}|Application\\Application.csproj|solutionrelative:application\\abstractions\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE549FC9-18E4-459F-972E-8FC70312E08D}|Application\\Application.csproj|d:\\personal\\real-time-collaborative-task-management-platform\\backend\\src\\application\\abstractions\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE549FC9-18E4-459F-972E-8FC70312E08D}|Application\\Application.csproj|solutionrelative:application\\abstractions\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C495C128-EE43-46CF-8A9A-813D1C585344}|Infrastructure\\Infrastructure.csproj|d:\\personal\\real-time-collaborative-task-management-platform\\backend\\src\\infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C495C128-EE43-46CF-8A9A-813D1C585344}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE549FC9-18E4-459F-972E-8FC70312E08D}|Application\\Application.csproj|d:\\personal\\real-time-collaborative-task-management-platform\\backend\\src\\application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE549FC9-18E4-459F-972E-8FC70312E08D}|Application\\Application.csproj|solutionrelative:application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE549FC9-18E4-459F-972E-8FC70312E08D}|Application\\Application.csproj|d:\\personal\\real-time-collaborative-task-management-platform\\backend\\src\\application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE549FC9-18E4-459F-972E-8FC70312E08D}|Application\\Application.csproj|solutionrelative:application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE549FC9-18E4-459F-972E-8FC70312E08D}|Application\\Application.csproj|d:\\personal\\real-time-collaborative-task-management-platform\\backend\\src\\application\\abstractions\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE549FC9-18E4-459F-972E-8FC70312E08D}|Application\\Application.csproj|solutionrelative:application\\abstractions\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE549FC9-18E4-459F-972E-8FC70312E08D}|Application\\Application.csproj|d:\\personal\\real-time-collaborative-task-management-platform\\backend\\src\\application\\abstractions\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE549FC9-18E4-459F-972E-8FC70312E08D}|Application\\Application.csproj|solutionrelative:application\\abstractions\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F399BFC-0A19-42C4-8673-1FE73D9F5828}|Domain\\Domain.csproj|d:\\personal\\real-time-collaborative-task-management-platform\\backend\\src\\domain\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F399BFC-0A19-42C4-8673-1FE73D9F5828}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F399BFC-0A19-42C4-8673-1FE73D9F5828}|Domain\\Domain.csproj|d:\\personal\\real-time-collaborative-task-management-platform\\backend\\src\\domain\\entities\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F399BFC-0A19-42C4-8673-1FE73D9F5828}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F399BFC-0A19-42C4-8673-1FE73D9F5828}|Domain\\Domain.csproj|d:\\personal\\real-time-collaborative-task-management-platform\\backend\\src\\domain\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F399BFC-0A19-42C4-8673-1FE73D9F5828}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F399BFC-0A19-42C4-8673-1FE73D9F5828}|Domain\\Domain.csproj|d:\\personal\\real-time-collaborative-task-management-platform\\backend\\src\\domain\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F399BFC-0A19-42C4-8673-1FE73D9F5828}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F399BFC-0A19-42C4-8673-1FE73D9F5828}|Domain\\Domain.csproj|d:\\personal\\real-time-collaborative-task-management-platform\\backend\\src\\domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F399BFC-0A19-42C4-8673-1FE73D9F5828}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F399BFC-0A19-42C4-8673-1FE73D9F5828}|Domain\\Domain.csproj|d:\\personal\\real-time-collaborative-task-management-platform\\backend\\src\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F399BFC-0A19-42C4-8673-1FE73D9F5828}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F399BFC-0A19-42C4-8673-1FE73D9F5828}|Domain\\Domain.csproj|d:\\personal\\real-time-collaborative-task-management-platform\\backend\\src\\domain\\enums\\prioritylevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F399BFC-0A19-42C4-8673-1FE73D9F5828}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\prioritylevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F399BFC-0A19-42C4-8673-1FE73D9F5828}|Domain\\Domain.csproj|d:\\personal\\real-time-collaborative-task-management-platform\\backend\\src\\domain\\enums\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F399BFC-0A19-42C4-8673-1FE73D9F5828}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F399BFC-0A19-42C4-8673-1FE73D9F5828}|Domain\\Domain.csproj|d:\\personal\\real-time-collaborative-task-management-platform\\backend\\src\\domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F399BFC-0A19-42C4-8673-1FE73D9F5828}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "API",
+              "DocumentMoniker": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\API\\API.csproj",
+              "RelativeDocumentMoniker": "API\\API.csproj",
+              "ToolTip": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\API\\API.csproj",
+              "RelativeToolTip": "API\\API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-30T10:58:48.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HealthController.cs",
+              "DocumentMoniker": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\API\\Controllers\\HealthController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\HealthController.cs",
+              "ToolTip": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\API\\Controllers\\HealthController.cs",
+              "RelativeToolTip": "API\\Controllers\\HealthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T10:51:50.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NotificationHub.cs",
+              "DocumentMoniker": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\API\\RealTime\\NotificationHub.cs",
+              "RelativeDocumentMoniker": "API\\RealTime\\NotificationHub.cs",
+              "ToolTip": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\API\\RealTime\\NotificationHub.cs",
+              "RelativeToolTip": "API\\RealTime\\NotificationHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T10:51:02.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Infrastructure",
+              "DocumentMoniker": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-30T10:46:14.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Domain",
+              "DocumentMoniker": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-30T10:46:01.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Application",
+              "DocumentMoniker": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-30T10:45:47.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3fd5e0cc-709a-4f8c-94c3-7f0f8dff5bb2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T10:41:42.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-30T10:41:13.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "API\\appsettings.Development.json",
+              "ToolTip": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\API\\appsettings.Development.json",
+              "RelativeToolTip": "API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-30T10:40:54.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T10:40:24.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\Infrastructure\\Security\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Security\\JwtTokenService.cs",
+              "ToolTip": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\Infrastructure\\Security\\JwtTokenService.cs",
+              "RelativeToolTip": "Infrastructure\\Security\\JwtTokenService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T10:40:03.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\Domain\\Entities\\TaskItem.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\TaskItem.cs",
+              "ToolTip": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\Domain\\Entities\\TaskItem.cs",
+              "RelativeToolTip": "Domain\\Entities\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T10:27:13.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\Infrastructure\\Security\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Security\\PasswordHasher.cs",
+              "ToolTip": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\Infrastructure\\Security\\PasswordHasher.cs",
+              "RelativeToolTip": "Infrastructure\\Security\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T10:39:44.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\Infrastructure\\Persistence\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\UnitOfWork.cs",
+              "ToolTip": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\Infrastructure\\Persistence\\UnitOfWork.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T10:33:16.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\Infrastructure\\Persistence\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\GenericRepository.cs",
+              "ToolTip": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\Infrastructure\\Persistence\\GenericRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\GenericRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T10:32:45.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\AppDbContext.cs",
+              "ToolTip": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\AppDbContext.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAcwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T10:32:15.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Application\\DependencyInjection.cs",
+              "ToolTip": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\Application\\DependencyInjection.cs",
+              "RelativeToolTip": "Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T10:31:28.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\Application\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Application\\Mapping\\MappingProfile.cs",
+              "ToolTip": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\Application\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "Application\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T10:31:06.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IPasswordHasher.cs",
+              "DocumentMoniker": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\Application\\Abstractions\\IPasswordHasher.cs",
+              "RelativeDocumentMoniker": "Application\\Abstractions\\IPasswordHasher.cs",
+              "ToolTip": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\Application\\Abstractions\\IPasswordHasher.cs",
+              "RelativeToolTip": "Application\\Abstractions\\IPasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T10:30:37.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IJwtTokenService.cs",
+              "DocumentMoniker": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\Application\\Abstractions\\IJwtTokenService.cs",
+              "RelativeDocumentMoniker": "Application\\Abstractions\\IJwtTokenService.cs",
+              "ToolTip": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\Application\\Abstractions\\IJwtTokenService.cs",
+              "RelativeToolTip": "Application\\Abstractions\\IJwtTokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T10:30:22.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\Application\\Abstractions\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Abstractions\\IGenericRepository.cs",
+              "ToolTip": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\Application\\Abstractions\\IGenericRepository.cs",
+              "RelativeToolTip": "Application\\Abstractions\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T10:30:04.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\Application\\Abstractions\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Application\\Abstractions\\IUnitOfWork.cs",
+              "ToolTip": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\Application\\Abstractions\\IUnitOfWork.cs",
+              "RelativeToolTip": "Application\\Abstractions\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T10:29:40.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\Domain\\Entities\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\RefreshToken.cs",
+              "ToolTip": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\Domain\\Entities\\RefreshToken.cs",
+              "RelativeToolTip": "Domain\\Entities\\RefreshToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T10:28:05.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Attachment.cs",
+              "DocumentMoniker": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\Domain\\Entities\\Attachment.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Attachment.cs",
+              "ToolTip": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\Domain\\Entities\\Attachment.cs",
+              "RelativeToolTip": "Domain\\Entities\\Attachment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T10:27:50.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\Domain\\Entities\\Comment.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Comment.cs",
+              "ToolTip": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\Domain\\Entities\\Comment.cs",
+              "RelativeToolTip": "Domain\\Entities\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T10:27:29.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Project.cs",
+              "DocumentMoniker": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\Domain\\Entities\\Project.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Project.cs",
+              "ToolTip": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\Domain\\Entities\\Project.cs",
+              "RelativeToolTip": "Domain\\Entities\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T10:26:56.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\Domain\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Role.cs",
+              "ToolTip": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\Domain\\Entities\\Role.cs",
+              "RelativeToolTip": "Domain\\Entities\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T10:26:34.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
+              "ToolTip": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T10:26:10.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PriorityLevel.cs",
+              "DocumentMoniker": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\Domain\\Enums\\PriorityLevel.cs",
+              "RelativeDocumentMoniker": "Domain\\Enums\\PriorityLevel.cs",
+              "ToolTip": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\Domain\\Enums\\PriorityLevel.cs",
+              "RelativeToolTip": "Domain\\Enums\\PriorityLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T10:25:48.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TaskStatus.cs",
+              "DocumentMoniker": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\Domain\\Enums\\TaskStatus.cs",
+              "RelativeDocumentMoniker": "Domain\\Enums\\TaskStatus.cs",
+              "ToolTip": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\Domain\\Enums\\TaskStatus.cs",
+              "RelativeToolTip": "Domain\\Enums\\TaskStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T10:25:31.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\Domain\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\BaseEntity.cs",
+              "ToolTip": "D:\\Personal\\Real-Time-Collaborative-Task-Management-Platform\\backend\\src\\Domain\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Domain\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T10:24:35.933Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
